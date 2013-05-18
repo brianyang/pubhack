@@ -1,0 +1,32 @@
+{
+  "name": "k5-api-app",
+  "version": "0.0.1",
+  "private": true,
+  "engines": {
+    "node": ">=0.6.10",
+    "npm": ">=1.1.x"
+  },
+  "dependencies": {
+    "coffee-script": "",
+    "less": "",
+    "stylus": "",
+    "nib": "",
+    "connect-assets": "",
+    "express": "",
+    "jade": "",
+    "mongoose": "",
+    "redis": "",
+    "async": "",
+    "underscore": "",
+    "oauth": "",
+    "request": "",
+    "redis-url": "0.0.1",
+    "passport": "~0.1.16",
+    "passport-local": "~0.1.6"
+  },
+  "devDependencies": {
+    "ejs": "~0.8.3",
+    "connect-flash": "~0.1.0",
+    "cloudinary": "~1.0.2"
+  }
+}
